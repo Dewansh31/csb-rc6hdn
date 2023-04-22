@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://dewansh31.github.io/csb-rc6hdn/static/css/main.fc5c2c69.css",
+    "main.js": "https://dewansh31.github.io/csb-rc6hdn/static/js/main.de61a292.js",
+    "index.html": "https://dewansh31.github.io/csb-rc6hdn/index.html",
+    "main.fc5c2c69.css.map": "https://dewansh31.github.io/csb-rc6hdn/static/css/main.fc5c2c69.css.map",
+    "main.de61a292.js.map": "https://dewansh31.github.io/csb-rc6hdn/static/js/main.de61a292.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.de61a292.js"
+  ]
+}
